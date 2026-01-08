@@ -37,7 +37,7 @@ Garantia: 100% de corretude (sem falsos negativos)
 Limitação: Intratável para n > 25 vértices
 Estratégia: Busca em profundidade (DFS) com poda automática
 
-pythonsolver.resolver_backtracking()  # Retorna "SIM" ou "NÃO"
+resolver_backtracking()  # Retorna "SIM" ou "NÃO"
 
 2. Heurística Gulosa - Nearest Neighbor
 
@@ -46,4 +46,4 @@ Garantia: Nenhuma (pode gerar falsos negativos)
 Vantagem: Escala para milhares de vértices
 Estratégia: Escolha local gulosa sem backtracking
 
-pythonsolver.resolver_heuristica()  # Retorna "SIM" ou "NÃO"
+resolver_heuristica()  # Retorna "SIM" ou "NÃO"
