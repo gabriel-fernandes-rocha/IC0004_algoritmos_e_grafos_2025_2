@@ -7,9 +7,9 @@ Este projeto explora o Problema do Caminho Hamiltoniano em grafos gerais. O estu
 ## Como Executar
 #### Opção 1: Google Colab (Recomendado)
 
-Acesse o notebook no Google Colab:
+Acesse o notebook no Google Colab nesse Driver:
 
-   https://colab.research.google.com/
+   https://drive.google.com/drive/folders/1IDx6XDRn6o4P0QA36qPKS0mQGPKy4keK?usp=drive_link
 
 Faça upload do arquivo Reducao_Polinomial__Parte_C__Parte_D.ipynb
 Faça upload do arquivo grafo_teste.txt para o seu Google Drive
@@ -30,53 +30,6 @@ cd IC0004_algoritmos_e_grafos_2025_2
 
 Execute o notebook (ou converta para .py)
 jupyter notebook Reducao_Polinomial__Parte_C__Parte_D.ipynb
-
-## Formato do Arquivo de Entrada
-O programa lê grafos não-direcionados no seguinte formato:
-
-n m
-
-u1 v1
-
-u2 v2
-
-...
-
-um vm
-
-Onde:
-
-n = número de vértices (indexados de 0 a n-1)
-m = número de arestas
-Cada linha seguinte representa uma aresta (ui, vi)
-
-Exemplo (grafo_teste.txt):
-
-10 11
-
-0 1
-
-0 4
-
-1 2
-
-1 3
-
-2 5
-
-2 6
-
-3 7
-
-4 5
-
-6 7
-
-7 8
-
-8 9
-
-Este grafo possui 10 vértices e 11 arestas, formando uma estrutura conexa que contém um Caminho Hamiltoniano.
 
 ## Algoritmos Implementados
 1. Algoritmo Exato - Backtracking Recursivo
