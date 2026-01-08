@@ -11,11 +11,9 @@ Acesse o notebook no Google Colab nesse Driver:
 
    https://drive.google.com/drive/folders/1IDx6XDRn6o4P0QA36qPKS0mQGPKy4keK?usp=drive_link
 
-Faça upload do arquivo Reducao_Polinomial__Parte_C__Parte_D.ipynb
-Faça upload do arquivo grafo_teste.txt para o seu Google Drive
 Altere o caminho do arquivo no código:
 
-python   caminho_do_arquivo = "/content/drive/MyDrive/seu_caminho/grafo_teste.txt"
+   caminho_do_arquivo = "/content/drive/MyDrive/seu_caminho/grafo_teste.txt"
 
 Execute todas as células sequencialmente
 
