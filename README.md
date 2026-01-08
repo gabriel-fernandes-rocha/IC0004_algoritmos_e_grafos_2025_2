@@ -8,7 +8,7 @@ Este projeto explora o Problema do Caminho Hamiltoniano em grafos gerais. O estu
 ## Como Executar
 #### Opção 1: Google Colab (Recomendado)
 
-Acesse o notebook no Google Colab nesse Driver:
+Acesse o notebook no Google Colab nesse Drive:
 
    https://drive.google.com/drive/folders/1IDx6XDRn6o4P0QA36qPKS0mQGPKy4keK?usp=drive_link
 
