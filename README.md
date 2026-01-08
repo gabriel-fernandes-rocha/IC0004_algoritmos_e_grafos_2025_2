@@ -42,21 +42,14 @@ jupyter notebook Reducao_Polinomial__Parte_C__Parte_D.ipynb
 
 Complexidade: O(n!) no pior caso
 
-Garantia: 100% de corretude (sem falsos negativos)
-
-Limitação: Intratável para n > 25 vértices
-
 Estratégia: Busca em profundidade (DFS) com poda automática
 
 resolver_backtracking()  # Retorna "SIM" ou "NÃO"
 
+
 2. Heurística Gulosa - Nearest Neighbor
 
 Complexidade: O(n²)
-
-Garantia: Nenhuma (pode gerar falsos negativos)
-
-Vantagem: Escala para milhares de vértices
 
 Estratégia: Escolha local gulosa sem backtracking
 
