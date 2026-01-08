@@ -19,7 +19,7 @@ Execute todas as células sequencialmente
 
 #### Opção 2: Ambiente Local
 Pré-requisitos
-bashPython 3.10+
+bash Python 3.10+
 pip install networkx matplotlib pandas numpy openpyxl psutil
 Execução
 bash# Clone o repositório
