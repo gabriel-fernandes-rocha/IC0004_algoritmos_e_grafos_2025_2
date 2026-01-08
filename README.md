@@ -33,11 +33,17 @@ jupyter notebook Reducao_Polinomial__Parte_C__Parte_D.ipynb
 
 ## Formato do Arquivo de Entrada
 O programa lê grafos não-direcionados no seguinte formato:
+
 n m
+
 u1 v1
+
 u2 v2
+
 ...
+
 um vm
+
 Onde:
 
 n = número de vértices (indexados de 0 a n-1)
@@ -45,18 +51,31 @@ m = número de arestas
 Cada linha seguinte representa uma aresta (ui, vi)
 
 Exemplo (grafo_teste.txt):
+
 10 11
+
 0 1
+
 0 4
+
 1 2
+
 1 3
+
 2 5
+
 2 6
+
 3 7
+
 4 5
+
 6 7
+
 7 8
+
 8 9
+
 Este grafo possui 10 vértices e 11 arestas, formando uma estrutura conexa que contém um Caminho Hamiltoniano.
 
 ## Algoritmos Implementados
